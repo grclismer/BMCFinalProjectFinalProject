@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "847242077413",
+    "project_id": "ecommerceapp-2aeb0",
+    "storage_bucket": "ecommerceapp-2aeb0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847242077413:android:9994343f11ce2924b4a00c",
+        "android_client_info": {
+          "package_name": "com.eccomerceapp.timeless"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaSX0reBKarklRcMU-mXkq0ObHVkdIRDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847242077413:android:09ed7bd44572c297b4a00c",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaSX0reBKarklRcMU-mXkq0ObHVkdIRDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
